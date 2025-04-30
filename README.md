@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @morglind
 - 👀 I’m interested in marine viruses that infect microbes
 - 🌱 I’m currently learning python, Snakemake
-- 💞️ I’m looking to collaborate on all things phage!
+- 💞️ I’m looking to collaborate on all things virus!
 - 📫 How to reach me morglind[at]umich.edu
 
 <!---
